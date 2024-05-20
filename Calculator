@@ -1,2 +1,8 @@
 cout<<"Ahsan Khan";
 cout<<07;
+a=2; 
+b=4; 
+cout<<a+b; 
+
+
+
