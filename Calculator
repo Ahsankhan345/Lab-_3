@@ -10,6 +10,11 @@ int main() {
     int b = 4;
     cout << a + b << endl;
 
+    // Additional operation from the Subtraction branch
+    a = 7;
+    b = 5;
+    cout << a - b << endl;
+
     // Choosing the division operation from the Division branch
     a = 20;
     b = 5;
