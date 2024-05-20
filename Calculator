@@ -1,15 +1,25 @@
-cout<<"Ahsan Khan";
-cout<<07;
-a=2; 
-b=4; 
-cout<<a+b; 
 
+#include <iostream>
+using namespace std;
 
-a=4; 
-b=5; 
-cout<<a*b;
+int main() {
+    cout << "Ahsan Khan" << endl;
+    cout << 07 << endl;
+    
+    int a = 2;
+    int b = 4;
+    cout << a + b << endl;
 
+    // Choosing the division operation from the Division branch
+    a = 20;
+    b = 5;
+    cout << a / b << endl;
 
+    // Choosing the multiplication operation from the Multiplication branch
+    a = 4;
+    b = 5;
+    cout << a * b << endl;
 
-
+    return 0;
+}
 
